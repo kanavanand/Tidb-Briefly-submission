@@ -1,0 +1,20 @@
+asgiref==3.5.2
+cffi==1.15.1
+Django==3.2.16
+django-tidb==3.0.0
+greenlet==2.0.1
+importlib-metadata==5.0.0
+mysql-connector-python==8.0.31
+mysqlclient==2.1.1
+peewee==3.15.4
+protobuf==3.20.1
+pycparser==2.21
+Pygments @ file:///private/tmp/pygments-20230630-5530-1s8evfm/Pygments-2.15.1
+PyMySQL==1.0.2
+pytz==2022.6
+six==1.16.0
+SQLAlchemy==1.4.44
+sqlparse==0.4.3
+tabulate @ file:///private/tmp/python-tabulate-20221231-6141-6zmrv5/tabulate-0.9.0
+typing_extensions==4.4.0
+zipp==3.10.0
